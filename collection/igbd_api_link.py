@@ -1,6 +1,13 @@
 import requests
-from utility.update_yaml import retrieve_yaml, save_field
+import time
+
+import pandas as pd
+
 import endpoints
+from endpoints import total_collection_query_end as query_end
+from utility.update_yaml import retrieve_yaml, save_field
+
+
 
 headers ={
         'Client-ID': retrieve_yaml('client_id'),
@@ -44,6 +51,41 @@ def grab_data(url: str, query: str) -> None:
 
     response = requests.post(url, headers=headers, data=query)
     data = response.json()
-    print(data)
 
 
+def generate_initial_csvs() -> None:
+    non_game_cats = [
+        endpoints.THEMES, endpoints.PLATFORM, endpoints.GAME_MODES, endpoints.GENRE, endpoints.COMPANIES,
+        endpoints.KEYWORDS, endpoints.LANGUAGE, endpoints.POV
+    ]
+
+    csv_names = [
+        'Themes', 'Platform', 'Game Modes', 'Genre', 'Companies', 'Keywords', 'Language', 'POV'
+    ]
+
+    for i, (url, query) in enumerate(non_game_cats):
+        curr_query = query
+        last_id = 0
+        count = 0
+
+        while True:
+            # Prevent the lock out from to many calls to quickly
+            if count == 3:
+                time.sleep(5)
+                count = 0
+
+            curr_query += query_end + f'where id > {last_id};'
+            response = requests.post(url, headers=headers, data=curr_query)
+            data = response.json()
+
+            if 'status' in data[0] and data[0]['status'] >= 400:
+                break
+
+            df = pd.DataFrame(data)
+            df.to_csv(f'../data/{csv_names[i]}.csv', index=False)
+
+            last_id = df.tail(1)['id']
+            curr_query = query
+            count += 1
+
+generate_initial_csvs()

@@ -4,57 +4,57 @@ A file which contains different endpoints and the proper data requirements
 
 total_collection_query_end = 'limit 500; sort id asc;'
 
-games = (
+GAMES = (
     'https://api.igdb.com/v4/games',
     'fields aggregated_rating, category, game_modes, genres, involved_companies, keywords, multiplayer_modes, name, platforms, player_perspectives, rating, storyline, summary, themes;'
 )
 
-themes = (
+THEMES = (
     'https://api.igdb.com/v4/themes',
     'fields name;'
 )
 
-platform = (
+PLATFORM = (
     'https://api.igdb.com/v4/platforms',
     'fields name, category, generation;'
 )
 
-game_modes = (
+GAME_MODES = (
     'https://api.igdb.com/v4/game_modes',
     'fields name;'
 )
 
-time_to_beat = (
+TIME_TO_BEAT = (
     'https://api.igdb.com/v4/game_time_to_beats',
     'fields hastily, normally, completely;'
 )
 
-genre = (
+GENRE = (
     'https://api.igdb.com/v4/genres',
     'fields name;'
 )
 
-companies = (
+COMPANIES = (
     'https://api.igdb.com/v4/companies',
     'fields name, changed_company_id;'
 )
 
-keywords = (
+KEYWORDS = (
     'https://api.igdb.com/v4/keywords',
     'fields name;'
 )
 
-language = (
+LANGUAGE = (
     'https://api.igdb.com/v4/languages',
     'fields name;'
 )
 
-multiplayer = (
+MULTIPLAYER = (
     'https://api.igdb.com/v4/multiplayer_modes',
     'fields, campaigncoop'
 )
 
-pov = (
+POV = (
     'https://api.igdb.com/v4/player_perspectives',
     'fields, name'
 )
