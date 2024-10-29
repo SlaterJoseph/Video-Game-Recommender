@@ -1,5 +1,6 @@
 import requests
 from utility.update_yaml import retrieve_yaml, save_field
+import endpoints
 
 headers ={
         'Client-ID': retrieve_yaml('client_id'),
@@ -27,7 +28,7 @@ def grab_games() -> None:
     url = 'https://api.igdb.com/v4/games'
     last_id = 0
 
-    query = ('fields age_ratings, category, game_modes, genres, involved_companies, keywords, multiplayer_modes, name, platforms, player_perspectives, rating, storyline, summary, themes;'
+    query = ('fields aggregated_rating, category, game_modes, genres, involved_companies, keywords, multiplayer_modes, name, platforms, player_perspectives, rating, storyline, summary, themes;'
              'limit 1;'
              'sort id asc;'
              f'where id > {last_id};')
@@ -35,4 +36,14 @@ def grab_games() -> None:
 
     response = requests.post(url, headers=headers, data=query)
     data = response.json()
+
+def grab_data(url: str, query: str) -> None:
+    last_id = 0
+
+    query = query + f'where id > {last_id};'
+
+    response = requests.post(url, headers=headers, data=query)
+    data = response.json()
+    print(data)
+
 
