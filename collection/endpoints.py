@@ -6,7 +6,13 @@ total_collection_query_end = 'limit 500; sort id asc;'
 
 GAMES = (
     'https://api.igdb.com/v4/games',
-    'fields aggregated_rating, category, game_modes, genres, involved_companies, keywords, multiplayer_modes, name, platforms, player_perspectives, rating, storyline, summary, themes;'
+    'fields name, aggregated_rating, category, game_modes, genres, involved_companies, keywords, language_supports, multiplayer_modes,'
+    'platforms, player_perspectives, rating, themes, age_ratings;'
+)
+
+GAMES_TEXT_DATA = (
+    'https://api.igdb.com/v4/games',
+    'fields name, storyline, summary'
 )
 
 THEMES = (
