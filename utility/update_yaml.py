@@ -18,6 +18,6 @@ def save_field(fields: dict) -> None:
     :param fields: A list of tuples in (field, value) format
     :return: None
     """
-    with open(path, 'w') as f:
+    with open(path, 'a') as f:
         for field in fields.keys():
             yaml.dump({field: fields[field]}, f)

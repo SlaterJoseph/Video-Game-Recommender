@@ -1,0 +1,501 @@
+id,name
+1,modern warfare
+3,aliens
+4,pirates
+5,zombies
+6,rail shooter
+8,cold war
+9,western
+14,super hero
+16,ghosts
+19,world war ii - ww2
+20,baseball
+21,helicopter
+22,assassin
+23,space simulation
+24,space combat
+25,vehicular combat
+26,soccer
+27,football
+28,rally
+29,world war i - ww1
+30,golf
+32,american football
+33,nfl
+34,ancient greece
+35,greek mythology
+36,combat flight simulator
+40,spy
+41,secret agent
+43,life simulation
+44,ice hockey
+45,train simulator
+48,tank simulator
+51,space strategy
+54,pool
+56,flight simulator
+57,motorcycle
+58,basketball
+59,motocross
+61,martial arts
+63,ship simulator
+64,hunting
+66,simulated reality
+69,post-apocalyptic
+70,futuristic warfare
+72,exploration
+76,asian style
+77,tower defense
+78,anime
+85,neo noir
+87,dinosaurs
+88,australian
+95,kinect
+96,orcs
+98,monsters
+100,multitouch
+101,casual
+103,cyberpunk
+105,knights
+106,cybernetics
+109,violence
+110,evolution
+114,arena
+115,god game
+122,hell
+126,retro
+128,1980s
+129,bloody
+130,extreme
+131,psychological horror
+133,interactive movie
+134,psychological thriller
+135,paranormal
+137,gravity
+138,underwater
+140,serial killer
+147,wizards
+149,grand strategy
+151,medieval
+153,animals
+154,poker
+155,cars
+156,surrealism
+158,psychological exploration
+159,disease
+160,destruction
+161,infection
+162,brutal
+164,ninja
+165,space mining
+166,shoot 'em up
+167,mech
+170,time travel
+171,level editor
+173,reality tv
+175,demon
+182,character customization
+189,kojima
+193,training
+198,haunted house
+201,space station
+202,atlantis
+205,immortality
+208,russia
+209,mutation
+211,vampire
+214,politics
+215,detective
+218,interactive fiction
+220,weird
+221,murder
+222,drugs
+223,dark
+225,investigation
+226,magic
+227,sword
+228,virus
+234,wrestling
+236,grinding
+243,heist
+244,crime solving
+247,collecting
+249,pikachu
+250,3d
+253,samurai
+256,sherlock holmes
+262,amazon
+267,king arthur
+271,photography
+272,europe
+274,minigames
+275,gamecube microphone
+276,1940s
+277,norway
+278,germany
+280,go-kart
+283,story driven
+284,organized crime
+285,skill-based
+286,competitive
+287,physics
+288,2d
+293,ancient rome
+298,1920s
+299,bowling
+300,snooker
+304,vehicle simulation
+305,unreleased
+307,invasion
+308,experimental
+311,tennis
+313,rugby
+328,ants
+331,genetic experiment
+332,dragons
+343,adult
+345,manga
+351,italian mafia
+353,kingdom
+357,madness
+358,dating
+359,world domination
+367,norse mythology
+368,thief
+371,guild
+374,table tennis
+379,tycoon
+380,chess
+381,vintage
+382,16-bit
+387,newgrounds
+390,parkour
+391,movie games
+392,construction
+393,managerial
+394,mascot
+401,burnout
+402,arcade racers
+403,shark
+409,pokemon
+410,lego
+413,parody
+415,turn-based
+416,roguelike
+420,artifacts
+421,ancient egypt
+422,choose your own adventure
+423,gothic
+424,1930s
+425,crpg
+427,police
+428,mercenaries
+429,dystopian
+433,swat
+441,street fighting
+447,game boy color
+449,battlefield
+451,augmented reality
+453,first person shooter
+456,national hockey league
+465,future
+470,comics
+472,prequel
+477,metroidvania
+482,collectible card game
+487,viking mythology
+488,guitar playing
+489,china
+490,tolkien
+494,squad based
+497,summoning support
+499,great depression
+508,ps2
+509,fishing
+510,crafting
+511,breeding
+512,quick-time events
+514,20th century
+518,insects
+521,jrpg
+522,ps1 inspired
+523,harry potter
+524,fast paced
+525,lord of the rings
+531,creative
+535,1990s
+537,dark fantasy
+538,8-bit style
+545,21st century
+546,pvp
+552,18th century
+558,death
+562,soldier
+563,military
+570,cats
+571,rats
+574,upgradable weapons
+575,robots
+577,procedural generation
+578,permadeath
+581,diablo-like
+586,castlevania
+588,androids
+589,2.5d
+591,self-discovery
+592,elves
+595,voxel
+599,browser-based
+603,ascii
+604,open-source
+605,alternate history
+606,resource management
+607,caveman
+608,persian mythology
+609,sea battles
+611,casino
+613,planes
+617,ps4
+619,game creator
+621,slot machine
+623,horse
+625,monster truck
+632,boxing
+634,vietnam war
+639,versus
+642,exercise
+647,1910s
+648,zoo
+654,volleyball
+656,beach volleyball
+659,tmnt
+660,run and gun
+661,bmx
+666,shogi
+667,winter sports
+668,marvel
+669,frog
+672,arcade compilation
+673,surfing
+675,dodgeball
+677,traditional
+679,street basketball
+680,college
+683,real time tactics
+684,carnival
+685,mini golf
+687,maze
+694,memory loss
+698,mummy
+701,archery
+703,skydiving
+705,swordplay
+706,shooting
+707,air hockey
+713,amusement park
+717,cartoon network
+723,cricket
+724,penguin
+726,runner
+728,breakout
+729,gambling
+732,ufo
+734,match 3
+735,street racing
+736,abandonware
+740,girls
+744,rock climbing
+757,karaoke
+758,cooking
+759,baking
+761,celebrity
+763,joust
+770,chicken
+772,game show
+777,fitness
+778,driving
+789,doctor
+793,fashion
+798,pachinko
+801,hasbro
+803,discovery
+808,vocabulary
+809,nba
+816,pets
+817,pet raising
+818,virtual pet
+821,mmorts
+823,horse racing
+824,coloring
+826,time manipulation
+832,christmas
+833,ice skating
+839,dolphin
+840,cinematic
+841,goat
+842,shooting gallery
+843,humour
+844,shmup
+845,werewolf
+847,eroge
+851,1950s
+858,amiga
+869,wrestlemania
+879,counter-terrorists
+889,gangs
+893,16th century
+894,old school
+895,racing simulator
+896,star wars
+901,episodic
+902,rabbit
+905,difficult
+906,steampunk
+910,air dasher
+911,bullet hell
+912,backgammon
+914,lifestyle
+915,trains
+917,skiing
+918,math
+923,futuristic
+925,bruce lee
+926,deer
+931,mission based
+934,pinball
+947,spaceship
+948,programming
+952,goblin
+953,mythology
+955,london
+957,running
+960,compilation
+962,female protagonist
+964,claymation
+967,space warfare
+968,animal protagonist
+971,extreme sports
+974,space
+976,gardening
+977,hand-to-hand combat
+980,france
+982,brawler
+983,playstation move
+985,wild west
+988,online co-op
+989,hamster
+992,flight
+993,real-time
+994,management
+996,space shooter
+997,based on - tv show
+999,naval
+1002,alpine skiing
+1008,checkers
+1010,reversi
+1011,mahjong
+1012,battleship
+1013,connect four
+1014,blackjack
+1026,role playing
+1029,extra terrestrial
+1030,roller coaster
+1032,insanity
+1033,action-adventure
+1035,total conversion
+1045,space travel
+1054,gulf war
+1058,space battle
+1059,side-scrolling
+1060,kaiju
+1061,giant monsters
+1065,dragon
+1066,occult
+1068,skeleton
+1069,demons
+1070,labyrinth
+1074,art
+1075,crossover
+1079,graphic adventure
+1080,spanish culture
+1089,rebellion
+1091,celtic mythology
+1093,french revolution
+1094,dupe
+1095,vikings
+1096,nordic mythology
+1097,cyborg
+1102,religion
+1103,farming
+1105,supernatural
+1107,war
+1111,nature
+1113,mature
+1115,animal-based
+1119,forest
+1122,plane crash
+1127,classic
+1136,noir
+1137,india
+1138,egypt
+1140,hidden object
+1141,indiegogo
+1142,ludum dare
+1143,diplomacy
+1144,jedi
+1148,simulation
+1151,village
+1152,button
+1156,truck simulator
+1158,steam
+1159,trading
+1160,simple
+1162,micromanagement
+1165,leveling
+1172,german mythology
+1173,james bond
+1180,witches
+1181,fairy
+1186,multiple protagonists
+1187,alternative puzzle solutions
+1188,bromance
+1189,boardgame adaptation
+1190,treasure hunt
+1193,parallel worlds
+1198,space exploration
+1203,monochrome
+1204,stylized
+1207,halloween
+1208,overworld
+1209,party-based combat
+1212,psychic abilities
+1218,12th century
+1219,espionage
+1228,bird
+1231,karate
+1234,nightmare
+1244,social
+1247,multiplayer online battle arena
+1256,family curse
+1263,pixelated
+1280,reviewed by avgn
+1283,flying
+1285,laserdisc
+1286,based on - movie
+1288,dracula
+1289,backtracking
+1290,cryptic
+1293,achievements
+1295,lovecraftian
+1296,hospital
+1297,asymmetric gameplay
+1299,time limit
+1302,chosen one
+1304,edutainment
+1305,child protagonist
+1308,gore
+1309,bullet time
+1312,writing
+1313,multiple endings
+1315,short
+1317,apocalypse

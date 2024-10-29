@@ -1,0 +1,216 @@
+id,category,name,generation
+3,4.0,Linux,
+4,1.0,Nintendo 64,5.0
+5,1.0,Wii,7.0
+6,4.0,PC (Microsoft Windows),
+7,1.0,PlayStation,5.0
+8,1.0,PlayStation 2,6.0
+9,1.0,PlayStation 3,7.0
+11,1.0,Xbox,6.0
+12,1.0,Xbox 360,7.0
+13,4.0,DOS,
+14,4.0,Mac,
+15,6.0,Commodore C64/128/MAX,
+16,6.0,Amiga,
+18,1.0,Nintendo Entertainment System,3.0
+19,1.0,Super Nintendo Entertainment System,4.0
+20,5.0,Nintendo DS,7.0
+21,1.0,Nintendo GameCube,6.0
+22,5.0,Game Boy Color,5.0
+23,1.0,Dreamcast,6.0
+24,5.0,Game Boy Advance,6.0
+25,6.0,Amstrad CPC,
+26,6.0,ZX Spectrum,
+27,6.0,MSX,
+29,1.0,Sega Mega Drive/Genesis,4.0
+30,1.0,Sega 32X,4.0
+32,1.0,Sega Saturn,5.0
+33,5.0,Game Boy,4.0
+34,4.0,Android,
+35,5.0,Sega Game Gear,4.0
+37,5.0,Nintendo 3DS,8.0
+38,5.0,PlayStation Portable,7.0
+39,4.0,iOS,
+41,1.0,Wii U,8.0
+42,5.0,N-Gage,6.0
+44,5.0,Tapwave Zodiac,
+46,5.0,PlayStation Vita,8.0
+47,3.0,Virtual Console,
+48,1.0,PlayStation 4,8.0
+49,1.0,Xbox One,8.0
+50,1.0,3DO Interactive Multiplayer,5.0
+51,1.0,Family Computer Disk System,3.0
+52,2.0,Arcade,
+53,6.0,MSX2,
+55,5.0,Legacy Mobile Device,
+57,5.0,WonderSwan,5.0
+58,1.0,Super Famicom,4.0
+59,1.0,Atari 2600,2.0
+60,1.0,Atari 7800,3.0
+61,5.0,Atari Lynx,4.0
+62,1.0,Atari Jaguar,5.0
+63,6.0,Atari ST/STE,
+64,1.0,Sega Master System/Mark III,3.0
+65,6.0,Atari 8-bit,
+66,1.0,Atari 5200,2.0
+67,1.0,Intellivision,2.0
+68,1.0,ColecoVision,2.0
+69,6.0,BBC Microcomputer System,
+70,1.0,Vectrex,2.0
+71,6.0,Commodore VIC-20,
+72,1.0,Ouya,8.0
+73,4.0,BlackBerry OS,
+74,4.0,Windows Phone,
+75,6.0,Apple II,
+77,6.0,Sharp X1,
+78,1.0,Sega CD,4.0
+79,2.0,Neo Geo MVS,
+80,1.0,Neo Geo AES,4.0
+82,3.0,Web browser,
+84,1.0,SG-1000,3.0
+85,6.0,Donner Model 30,
+86,1.0,TurboGrafx-16/PC Engine,4.0
+87,1.0,Virtual Boy,5.0
+88,1.0,Odyssey,1.0
+89,5.0,Microvision,2.0
+90,6.0,Commodore PET,
+91,1.0,Bally Astrocade,2.0
+93,6.0,Commodore 16,
+94,6.0,Commodore Plus/4,
+95,6.0,PDP-1,
+96,6.0,PDP-10,
+97,6.0,PDP-8,
+98,,DEC GT40,
+99,1.0,Family Computer,3.0
+100,,Analogue electronics,
+101,6.0,Ferranti Nimrod Computer,
+102,6.0,EDSAC,
+103,,PDP-7,
+104,6.0,HP 2100,
+105,6.0,HP 3000,
+106,6.0,SDS Sigma 7,
+107,6.0,Call-A-Computer time-shared mainframe computer system,
+108,6.0,PDP-11,
+109,6.0,CDC Cyber 70,
+110,6.0,PLATO,
+111,,Imlac PDS-1,
+112,,Microcomputer,
+113,3.0,OnLive Game System,
+114,1.0,Amiga CD32,5.0
+115,6.0,Apple IIGS,
+116,6.0,Acorn Archimedes,
+117,1.0,Philips CD-i,
+118,6.0,FM Towns,
+119,5.0,Neo Geo Pocket,5.0
+120,5.0,Neo Geo Pocket Color,5.0
+121,6.0,Sharp X68000,
+122,1.0,Nuon,
+123,5.0,WonderSwan Color,5.0
+124,5.0,SwanCrystal,
+125,6.0,PC-8800 Series,
+126,6.0,TRS-80,
+127,1.0,Fairchild Channel F,2.0
+128,1.0,PC Engine SuperGrafx,4.0
+129,6.0,Texas Instruments TI-99,
+130,1.0,Nintendo Switch,8.0
+131,1.0,Super NES CD-ROM System,4.0
+132,3.0,Amazon Fire TV,
+133,6.0,Odyssey 2 / Videopac G7000,
+134,6.0,Acorn Electron,
+135,2.0,Hyper Neo Geo 64,
+136,1.0,Neo Geo CD,4.0
+137,5.0,New Nintendo 3DS,8.0
+138,1.0,VC 4000,2.0
+139,1.0,1292 Advanced Programmable Video System,2.0
+140,6.0,AY-3-8500,
+141,6.0,AY-3-8610,
+142,1.0,PC-50X Family,1.0
+143,1.0,AY-3-8760,
+144,1.0,AY-3-8710,
+145,1.0,AY-3-8603,
+146,1.0,AY-3-8605,
+147,1.0,AY-3-8606,
+148,1.0,AY-3-8607,
+149,6.0,PC-9800 Series,
+150,6.0,Turbografx-16/PC Engine CD,
+151,6.0,TRS-80 Color Computer,
+152,6.0,FM-7,
+153,6.0,Dragon 32/64,
+154,6.0,Amstrad PCW,
+155,6.0,Tatung Einstein,
+156,6.0,Thomson MO5,
+157,6.0,NEC PC-6000 Series,
+158,6.0,Commodore CDTV,
+159,5.0,Nintendo DSi,7.0
+161,,Windows Mixed Reality,
+162,,Oculus VR,
+163,,SteamVR,
+164,,Daydream,
+165,1.0,PlayStation VR,8.0
+166,5.0,Pokémon mini,
+167,1.0,PlayStation 5,9.0
+169,1.0,Xbox Series X|S,9.0
+170,3.0,Google Stadia,
+203,,DUPLICATE Stadia,
+236,6.0,Exidy Sorcerer,
+237,6.0,Sol-20,
+238,1.0,DVD Player,
+239,1.0,Blu-ray Player,
+240,1.0,Zeebo,7.0
+274,1.0,PC-FX,5.0
+306,1.0,Satellaview,4.0
+307,5.0,Game & Watch,2.0
+308,1.0,Playdia,5.0
+309,5.0,Evercade,8.0
+339,1.0,Sega Pico,4.0
+372,3.0,OOParts,
+373,6.0,Sinclair ZX81,
+374,6.0,Sharp MZ-2200,
+375,1.0,Epoch Cassette Vision,2.0
+376,1.0,Epoch Super Cassette Vision,3.0
+377,3.0,Plug & Play,
+378,5.0,Gamate,4.0
+379,5.0,Game.com,5.0
+380,1.0,Casio Loopy,
+381,5.0,Playdate,9.0
+382,1.0,Intellivision Amico,
+384,1.0,Oculus Quest,
+385,1.0,Oculus Rift,
+386,1.0,Meta Quest 2,
+387,1.0,Oculus Go,
+388,1.0,Gear VR,
+389,3.0,AirConsole,
+390,1.0,PlayStation VR2,9.0
+405,4.0,Windows Mobile,
+406,6.0,Sinclair QL,
+407,1.0,HyperScan,7.0
+408,5.0,Mega Duck/Cougar Boy,4.0
+409,6.0,Legacy Computer,
+410,1.0,Atari Jaguar CD,5.0
+411,5.0,Handheld Electronic LCD,
+412,5.0,Leapster,6.0
+413,5.0,Leapster Explorer/LeadPad Explorer,7.0
+414,1.0,LeapTV,8.0
+415,5.0,Watara/QuickShot Supervision,4.0
+416,1.0,64DD,5.0
+417,4.0,Palm OS,
+438,5.0,Arduboy,8.0
+439,1.0,V.Smile,6.0
+440,5.0,Visual Memory Unit / Visual Memory System,6.0
+441,5.0,PocketStation,5.0
+471,1.0,Meta Quest 3,9.0
+472,4.0,visionOS,
+473,1.0,Arcadia 2001,
+474,5.0,Gizmondo,7.0
+475,5.0,R-Zone,5.0
+476,1.0,Apple Pippin,5.0
+477,5.0,Panasonic Jungle,8.0
+478,1.0,Panasonic M2,6.0
+479,1.0,Terebikko / See 'n Say Video Phone,
+480,1.0,Super A'Can,4.0
+481,6.0,Tomy Tutor / Pyuta / Grandstand Tutor,
+482,1.0,Sega CD 32X,4.0
+486,5.0,Digiblast,7.0
+487,1.0,LaserActive,4.0
+504,1.0,Uzebox,
+505,6.0,Elektor TV Games Computer,
